@@ -1,0 +1,21 @@
+{
+  "name": "qa-challenge",
+  "version": "1.0.0",
+  "description": "QA Challenge",
+  "main": "conf.js",
+  "directories": {},
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "protractor-screenshoter-plugin": "^0.10.3"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "scripts": {
+    "test": "node ./node_modules/protractor/bin/protractor conf.js --suite",
+    "webdriver-update": "node ./node_modules/protractor/bin/webdriver-manager update --gecko=false"
+  },
+  "author": "Diana Aguilar",
+  "license": "ISC"
+}

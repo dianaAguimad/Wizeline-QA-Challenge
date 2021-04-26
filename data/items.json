@@ -1,0 +1,12 @@
+{
+    "sauceLabsBackpack": "sauce-labs-backpack",
+    "sauceLabsBikeLight": "sauce-labs-bike-light",
+    "sauceLabsFleeceJacket": "sauce-labs-fleece-jacket",
+    "sauceLabsOnesie": "sauce-labs-onesie",
+    "itemsName": [
+        "Sauce Labs Backpack",
+        "Sauce Labs Fleece Jacket",
+        "Sauce Labs Bike Light", 
+        "Sauce Labs Onesie"
+    ]
+}

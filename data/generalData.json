@@ -1,0 +1,9 @@
+{
+    "userErrorMessage": "Epic sadface: Username and password do not match any user in this service",
+    "name": "Diana",
+    "lastName": "Aguilar",
+    "zip": "23443",
+    "yourCart": "Your Cart", 
+    "overview": "Checkout: Overview", 
+    "successfulOrder": "THANK YOU FOR YOUR ORDER"
+}
