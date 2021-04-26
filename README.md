@@ -2,7 +2,7 @@
 
 For running the project
 
- Run first npm install(node-modules
+ Run npm install
  
  Run a specific suite npm run test nameOfSuite
  
