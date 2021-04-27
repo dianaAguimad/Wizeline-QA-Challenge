@@ -7,4 +7,4 @@ Install all the dependencies:
  
  Run a specific suite: npm run test nameOfSuite
  
- Example: npm run test login 
+ Example: npm run test login or npm run test mainPage
