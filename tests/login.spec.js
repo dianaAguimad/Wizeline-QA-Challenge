@@ -1,7 +1,5 @@
-let Login = require ('../functions/login');
-let login;
-let MainPage = require ('../functions/mainPage');
-let mainPage;
+var login = require ('../functions/login');
+var mainPage = require ('../functions/mainPage');
 
 const { browser, element } = require('protractor');
 const {url} = require ('../data/userData.json');
@@ -11,8 +9,6 @@ var EC = protractor.ExpectedConditions;
 
 describe('Login User', function () {
     beforeEach(function(done){
-         login = new Login();
-         mainPage = new MainPage();
          browser.waitForAngularEnabled(false);
          browser.get(url);
          browser.driver.manage().window().maximize();

@@ -3,7 +3,11 @@
     "name": "Diana",
     "lastName": "Aguilar",
     "zip": "23443",
-    "yourCart": "Your Cart", 
-    "overview": "Checkout: Overview", 
+    "yourCart": "YOUR CART", 
+    "overview": "CHECKOUT: OVERVIEW", 
+    "yourInfo": "CHECKOUT: YOUR INFORMATION",
+    "complete": "CHECKOUT: COMPLETE!",
     "successfulOrder": "THANK YOU FOR YOUR ORDER"
+
+    
 }
