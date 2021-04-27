@@ -3,7 +3,7 @@
 For running the project
  
 Install all the dependencies: 
- Run npm install 
+  npm install 
  
  Run a specific suite npm run test nameOfSuite
  
